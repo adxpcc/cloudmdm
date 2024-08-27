@@ -12,7 +12,7 @@ CloudMDM是一款企业级安卓的移动设备管理解决方案，内置私有
 * 5.用户限制
 * 6.用户管理
 * 7.密码与锁屏
-
+* 8.Kiosk模式
 ## Description
 CloudMDM is an enterprise-level Android mobile device management solution with built-in private application market and file cloud storage and other functions to achieve device complexity management.
 It has local setting function and remote control.
@@ -26,3 +26,4 @@ Support Saas and privatization deployment
 * 5.User restrictions
 * 6.User manage
 * 7.Password and keyguard
+* 8.Kiosk mode
